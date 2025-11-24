@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "1",
+    "title": "Classic Tomato Spaghetti",
+    "ingredients": [
+      "spaghetti",
+      "canned tomatoes",
+      "garlic",
+      "olive oil",
+      "basil"
+    ],
+    "steps": [
+      "Bring a large pot of salted water to a boil.",
+      "Add spaghetti and cook until al dente.",
+      "Meanwhile, heat olive oil in a pan and sauté minced garlic until fragrant.",
+      "Add canned tomatoes and simmer for 10 minutes.",
+      "Season with salt, pepper, and fresh basil.",
+      "Toss pasta with the sauce and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": "12g",
+      "carbs": "70g",
+      "fat": "8g"
+    },
+    "dietaryTags": ["Vegetarian", "Vegan"],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "2",
+    "title": "Grilled Chicken Salad",
+    "ingredients": [
+      "chicken breast",
+      "mixed greens",
+      "cherry tomatoes",
+      "cucumber",
+      "olive oil",
+      "lemon juice"
+    ],
+    "steps": [
+      "Season chicken breast with salt, pepper, and olive oil.",
+      "Grill chicken for 6-7 minutes per side until cooked through.",
+      "Slice the chicken.",
+      "Toss mixed greens, halved cherry tomatoes, and sliced cucumber in a bowl.",
+      "Drizzle with olive oil and lemon juice.",
+      "Top with grilled chicken and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": "30g",
+      "carbs": "10g",
+      "fat": "15g"
+    },
+    "dietaryTags": ["Gluten-Free", "High Protein"],
+    "difficulty": "Medium",
+    "cookingTime": "25 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "3",
+    "title": "Vegetable Stir-Fry",
+    "ingredients": [
+      "broccoli",
+      "bell pepper",
+      "carrot",
+      "soy sauce",
+      "ginger",
+      "garlic",
+      "sesame oil",
+      "rice"
+    ],
+    "steps": [
+      "Cook rice according to package instructions.",
+      "Chop all vegetables into bite-sized pieces.",
+      "Heat sesame oil in a wok or large pan.",
+      "Sauté ginger and garlic until fragrant.",
+      "Add vegetables and stir-fry for 5-7 minutes.",
+      "Stir in soy sauce and cook for another minute.",
+      "Serve vegetables over rice."
+    ],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": "8g",
+      "carbs": "55g",
+      "fat": "6g"
+    },
+    "dietaryTags": ["Vegetarian", "Vegan"],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "4",
+    "title": "Fluffy Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "sugar",
+      "baking powder",
+      "butter",
+      "maple syrup"
+    ],
+    "steps": [
+      "In a bowl, mix flour, sugar, and baking powder.",
+      "Whisk in milk, egg, and melted butter until smooth.",
+      "Heat a non-stick pan over medium heat.",
+      "Pour batter onto the pan to form pancakes.",
+      "Cook until bubbles form, then flip and cook until golden.",
+      "Serve with maple syrup."
+    ],
+    "nutritionalInfo": {
+      "calories": 450,
+      "protein": "10g",
+      "carbs": "60g",
+      "fat": "18g"
+    },
+    "dietaryTags": ["Vegetarian"],
+    "difficulty": "Easy",
+    "cookingTime": "15 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "5",
+    "title": "Mushroom Risotto",
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "vegetable broth",
+      "onion",
+      "garlic",
+      "white wine",
+      "parmesan cheese",
+      "butter"
+    ],
+    "steps": [
+      "Sauté chopped onion and garlic in butter until soft.",
+      "Add sliced mushrooms and cook until browned.",
+      "Stir in arborio rice and toast for 1 minute.",
+      "Pour in white wine and stir until absorbed.",
+      "Gradually add warm broth, one ladle at a time, stirring constantly.",
+      "Cook until rice is creamy and tender.",
+      "Stir in parmesan cheese and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 500,
+      "protein": "15g",
+      "carbs": "65g",
+      "fat": "20g"
+    },
+    "dietaryTags": ["Vegetarian", "Gluten-Free"],
+    "difficulty": "Hard",
+    "cookingTime": "45 mins",
+    "servingSize": "4 servings"
+  },
+  {
+    "id": "6",
+    "title": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "tortillas",
+      "lettuce",
+      "cheddar cheese",
+      "sour cream",
+      "salsa"
+    ],
+    "steps": [
+      "Cook ground beef in a pan until browned.",
+      "Add taco seasoning and simmer for 3 minutes.",
+      "Warm tortillas in a skillet.",
+      "Fill tortillas with beef, shredded lettuce, and cheese.",
+      "Top with sour cream and salsa."
+    ],
+    "nutritionalInfo": {
+      "calories": 520,
+      "protein": "28g",
+      "carbs": "45g",
+      "fat": "25g"
+    },
+    "dietaryTags": ["High Protein"],
+    "difficulty": "Medium",
+    "cookingTime": "20 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "7",
+    "title": "Avocado Toast",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "lemon juice",
+      "chili flakes"
+    ],
+    "steps": [
+      "Toast the bread slices.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Spread the mashed avocado on the toast.",
+      "Sprinkle with chili flakes and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": "6g",
+      "carbs": "32g",
+      "fat": "18g"
+    },
+    "dietaryTags": ["Vegetarian", "Vegan"],
+    "difficulty": "Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "8",
+    "title": "Chicken Fried Rice",
+    "ingredients": [
+      "rice",
+      "chicken breast",
+      "soy sauce",
+      "egg",
+      "peas",
+      "carrot",
+      "oil"
+    ],
+    "steps": [
+      "Cook and chill rice ahead of time.",
+      "Scramble eggs in a hot pan and set aside.",
+      "Sauté diced chicken until cooked.",
+      "Add vegetables and stir-fry.",
+      "Add rice, soy sauce, and egg, then mix well."
+    ],
+    "nutritionalInfo": {
+      "calories": 480,
+      "protein": "26g",
+      "carbs": "55g",
+      "fat": "16g"
+    },
+    "dietaryTags": ["High Protein"],
+    "difficulty": "Medium",
+    "cookingTime": "25 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "9",
+    "title": "Caesar Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "croutons",
+      "parmesan cheese",
+      "caesar dressing",
+      "olive oil"
+    ],
+    "steps": [
+      "Chop romaine lettuce.",
+      "Toss lettuce with croutons and parmesan cheese.",
+      "Drizzle with Caesar dressing and olive oil.",
+      "Season with pepper and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": "10g",
+      "carbs": "20g",
+      "fat": "24g"
+    },
+    "dietaryTags": ["Vegetarian"],
+    "difficulty": "Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "10",
+    "title": "Lentil Soup",
+    "ingredients": [
+      "lentils",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth",
+      "garlic",
+      "olive oil"
+    ],
+    "steps": [
+      "Heat olive oil and sauté onions, carrots, celery, and garlic.",
+      "Add lentils and vegetable broth.",
+      "Simmer for 25-30 minutes until lentils are soft.",
+      "Season with salt and pepper before serving."
+    ],
+    "nutritionalInfo": {
+      "calories": 290,
+      "protein": "18g",
+      "carbs": "45g",
+      "fat": "5g"
+    },
+    "dietaryTags": ["Vegan", "Gluten-Free"],
+    "difficulty": "Medium",
+    "cookingTime": "35 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "11",
+    "title": "Banana Smoothie",
+    "ingredients": [
+      "banana",
+      "milk",
+      "yogurt",
+      "honey",
+      "ice cubes"
+    ],
+    "steps": [
+      "Add banana, milk, yogurt, and honey to a blender.",
+      "Blend until smooth.",
+      "Add ice cubes and blend again if desired."
+    ],
+    "nutritionalInfo": {
+      "calories": 260,
+      "protein": "10g",
+      "carbs": "40g",
+      "fat": "6g"
+    },
+    "dietaryTags": ["Vegetarian"],
+    "difficulty": "Easy",
+    "cookingTime": "5 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "12",
+    "title": "Baked Salmon",
+    "ingredients": [
+      "salmon fillet",
+      "lemon",
+      "dill",
+      "olive oil"
+    ],
+    "steps": [
+      "Preheat oven to 200°C (400°F).",
+      "Place salmon on a lined baking tray.",
+      "Drizzle with olive oil and season with salt, pepper, and dill.",
+      "Bake for 12-15 minutes.",
+      "Serve with lemon slices."
+    ],
+    "nutritionalInfo": {
+      "calories": 450,
+      "protein": "35g",
+      "carbs": "2g",
+      "fat": "32g"
+    },
+    "dietaryTags": ["Gluten-Free", "Keto", "High Protein"],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "13",
+    "title": "Veggie Omelette",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "bell pepper",
+      "onion",
+      "cheese",
+      "olive oil"
+    ],
+    "steps": [
+      "Whisk eggs with salt and pepper.",
+      "Sauté diced vegetables in olive oil.",
+      "Pour eggs over vegetables and cook until set.",
+      "Add cheese, fold, and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 380,
+      "protein": "22g",
+      "carbs": "8g",
+      "fat": "28g"
+    },
+    "dietaryTags": ["Vegetarian", "Keto"],
+    "difficulty": "Easy",
+    "cookingTime": "12 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "14",
+    "title": "Chickpea Curry",
+    "ingredients": [
+      "chickpeas",
+      "tomato puree",
+      "onion",
+      "garlic",
+      "ginger",
+      "curry powder",
+      "coconut milk",
+      "oil"
+    ],
+    "steps": [
+      "Heat oil and sauté onion, garlic, and ginger.",
+      "Add curry powder and stir for 1 minute.",
+      "Add chickpeas and tomato puree.",
+      "Pour in coconut milk and simmer for 15 minutes.",
+      "Season with salt and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 420,
+      "protein": "14g",
+      "carbs": "50g",
+      "fat": "18g"
+    },
+    "dietaryTags": ["Vegan", "Gluten-Free"],
+    "difficulty": "Medium",
+    "cookingTime": "30 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "15",
+    "title": "Garlic Butter Shrimp",
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "lemon juice",
+      "parsley"
+    ],
+    "steps": [
+      "Heat butter in a pan.",
+      "Sauté minced garlic until fragrant.",
+      "Add shrimp and cook for 2-3 minutes per side.",
+      "Stir in lemon juice and parsley.",
+      "Serve immediately."
+    ],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": "30g",
+      "carbs": "3g",
+      "fat": "22g"
+    },
+    "dietaryTags": ["Keto", "Gluten-Free", "High Protein"],
+    "difficulty": "Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "16",
+    "title": "Tomato Basil Soup",
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "garlic",
+      "vegetable broth",
+      "basil",
+      "olive oil"
+    ],
+    "steps": [
+      "Sauté onion and garlic in olive oil.",
+      "Add chopped tomatoes and cook for 10 minutes.",
+      "Pour in vegetable broth and simmer.",
+      "Blend until smooth.",
+      "Season with salt, pepper, and basil."
+    ],
+    "nutritionalInfo": {
+      "calories": 180,
+      "protein": "5g",
+      "carbs": "22g",
+      "fat": "8g"
+    },
+    "dietaryTags": ["Vegan", "Gluten-Free"],
+    "difficulty": "Easy",
+    "cookingTime": "25 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "17",
+    "title": "Fruit Yogurt Parfait",
+    "ingredients": [
+      "greek yogurt",
+      "granola",
+      "honey",
+      "berries"
+    ],
+    "steps": [
+      "Add a layer of yogurt to a glass.",
+      "Top with granola and berries.",
+      "Drizzle honey and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": "12g",
+      "carbs": "45g",
+      "fat": "8g"
+    },
+    "dietaryTags": ["Vegetarian"],
+    "difficulty": "Easy",
+    "cookingTime": "5 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "18",
+    "title": "Caprese Sandwich",
+    "ingredients": [
+      "bread",
+      "mozzarella",
+      "tomato",
+      "basil",
+      "olive oil"
+    ],
+    "steps": [
+      "Layer bread with sliced mozzarella and tomato.",
+      "Add fresh basil leaves.",
+      "Drizzle with olive oil and season with salt and pepper.",
+      "Toast if desired and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 430,
+      "protein": "18g",
+      "carbs": "48g",
+      "fat": "18g"
+    },
+    "dietaryTags": ["Vegetarian"],
+    "difficulty": "Easy",
+    "cookingTime": "8 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "19",
+    "title": "Peanut Butter Oatmeal",
+    "ingredients": [
+      "oats",
+      "milk",
+      "peanut butter",
+      "banana",
+      "honey"
+    ],
+    "steps": [
+      "Cook oats with milk until thick.",
+      "Stir in peanut butter.",
+      "Top with sliced banana and honey."
+    ],
+    "nutritionalInfo": {
+      "calories": 420,
+      "protein": "14g",
+      "carbs": "55g",
+      "fat": "16g"
+    },
+    "dietaryTags": ["Vegetarian"],
+    "difficulty": "Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "20",
+    "title": "Sushi Bowl",
+    "ingredients": [
+      "rice",
+      "cucumber",
+      "nori",
+      "soy sauce",
+      "avocado",
+      "salmon",
+      "sesame seeds"
+    ],
+    "steps": [
+      "Cook rice and season lightly with soy sauce.",
+      "Dice salmon, avocado, and cucumber.",
+      "Assemble ingredients in a bowl.",
+      "Top with nori strips and sesame seeds."
+    ],
+    "nutritionalInfo": {
+      "calories": 520,
+      "protein": "32g",
+      "carbs": "60g",
+      "fat": "18g"
+    },
+    "dietaryTags": ["High Protein"],
+    "difficulty": "Medium",
+    "cookingTime": "20 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "21",
+    "title": "Quinoa Kale Salad",
+    "ingredients": [
+      "quinoa",
+      "kale",
+      "cherry tomatoes",
+      "cucumber",
+      "feta cheese",
+      "lemon juice",
+      "olive-free vinaigrette"
+    ],
+    "steps": [
+      "Cook quinoa according to package instructions and let cool.",
+      "Chop kale, halve cherry tomatoes and dice cucumber.",
+      "Toss quinoa with kale, tomatoes, cucumber, and crumbled feta.",
+      "Dress with lemon juice and vinaigrette, toss and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 330,
+      "protein": "10g",
+      "carbs": "40g",
+      "fat": "12g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "22",
+    "title": "Herbed Turkey Meatballs",
+    "ingredients": [
+      "ground turkey",
+      "breadcrumbs",
+      "egg",
+      "parmesan cheese",
+      "garlic",
+      "fresh parsley",
+      "tomato sauce"
+    ],
+    "steps": [
+      "Mix ground turkey with breadcrumbs, egg, parmesan, minced garlic, and chopped parsley.",
+      "Form into meatballs and bake until cooked through.",
+      "Warm tomato sauce and simmer meatballs in sauce for 5 minutes.",
+      "Serve with pasta or on a bed of greens."
+    ],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": "32g",
+      "carbs": "20g",
+      "fat": "18g"
+    },
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "30 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "23",
+    "title": "Sheet-Roasted Root Vegetables",
+    "ingredients": [
+      "carrots",
+      "parsnips",
+      "sweet potato",
+      "rosemary",
+      "thyme",
+      "butter"
+    ],
+    "steps": [
+      "Preheat oven and chop all root vegetables into uniform pieces.",
+      "Toss vegetables with melted butter and fresh herbs.",
+      "Spread on a baking sheet and roast until tender and caramelized.",
+      "Serve warm as a side."
+    ],
+    "nutritionalInfo": {
+      "calories": 220,
+      "protein": "3g",
+      "carbs": "30g",
+      "fat": "10g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "40 mins",
+    "servingSize": "4 servings"
+  },
+  {
+    "id": "24",
+    "title": "Citrus Shrimp Ceviche",
+    "ingredients": [
+      "shrimp",
+      "lime juice",
+      "red onion",
+      "cilantro",
+      "tomato",
+      "avocado"
+    ],
+    "steps": [
+      "Poach shrimp briefly and chill.",
+      "Dice shrimp, onion, tomato, and avocado.",
+      "Marinate shrimp with lime juice and chopped cilantro until flavors meld.",
+      "Serve chilled with tortilla chips or lettuce cups."
+    ],
+    "nutritionalInfo": {
+      "calories": 200,
+      "protein": "22g",
+      "carbs": "8g",
+      "fat": "9g"
+    },
+    "dietaryTags": [
+      "Gluten-Free",
+      "Keto"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "15 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "25",
+    "title": "Baked Eggplant Parm",
+    "ingredients": [
+      "eggplant",
+      "breadcrumbs",
+      "egg",
+      "mozzarella",
+      "parmesan",
+      "tomato sauce",
+      "basil"
+    ],
+    "steps": [
+      "Slice eggplant and dip in beaten egg then breadcrumbs.",
+      "Bake slices until tender and golden.",
+      "Layer eggplant with tomato sauce and cheeses, then bake until cheese melts.",
+      "Garnish with fresh basil and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 420,
+      "protein": "20g",
+      "carbs": "30g",
+      "fat": "22g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "45 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "26",
+    "title": "Creamy Corn Chowder",
+    "ingredients": [
+      "corn kernels",
+      "potato",
+      "onion",
+      "celery",
+      "butter",
+      "vegetable broth",
+      "milk"
+    ],
+    "steps": [
+      "Sauté diced onion and celery in butter until soft.",
+      "Add diced potato, corn, and broth; simmer until potatoes are tender.",
+      "Stir in milk and warm through.",
+      "Blend partially for texture if desired and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 310,
+      "protein": "6g",
+      "carbs": "40g",
+      "fat": "14g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "35 mins",
+    "servingSize": "4 servings"
+  },
+  {
+    "id": "27",
+    "title": "Tofu Breakfast Scramble",
+    "ingredients": [
+      "firm tofu",
+      "spinach",
+      "bell pepper",
+      "turmeric",
+      "nutritional yeast",
+      "onion"
+    ],
+    "steps": [
+      "Crumble tofu and sauté with diced onion and bell pepper in a non-stick pan.",
+      "Add turmeric and nutritional yeast and fold in spinach until wilted.",
+      "Serve with toast or wrapped in a tortilla."
+    ],
+    "nutritionalInfo": {
+      "calories": 250,
+      "protein": "18g",
+      "carbs": "12g",
+      "fat": "12g"
+    },
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "15 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "28",
+    "title": "Greek Yogurt Chicken Wrap",
+    "ingredients": [
+      "cooked chicken breast",
+      "greek yogurt",
+      "cucumber",
+      "tomato",
+      "lettuce",
+      "whole wheat wrap",
+      "dill"
+    ],
+    "steps": [
+      "Shred cooked chicken and mix with greek yogurt, diced cucumber, and chopped dill.",
+      "Layer mixture on a wrap with lettuce and tomato.",
+      "Roll tightly and slice in half to serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 380,
+      "protein": "34g",
+      "carbs": "28g",
+      "fat": "10g"
+    },
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "29",
+    "title": "Black Bean Burger",
+    "ingredients": [
+      "black beans",
+      "onion",
+      "garlic",
+      "breadcrumbs",
+      "egg",
+      "cumin",
+      "burger buns"
+    ],
+    "steps": [
+      "Mash black beans and mix with finely chopped onion, garlic, breadcrumbs, egg, and cumin.",
+      "Form patties and cook in a non-stick skillet until heated through and slightly crisp.",
+      "Serve on buns with preferred toppings."
+    ],
+    "nutritionalInfo": {
+      "calories": 360,
+      "protein": "15g",
+      "carbs": "45g",
+      "fat": "9g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "25 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "30",
+    "title": "Honey Garlic Glazed Carrots",
+    "ingredients": [
+      "carrots",
+      "honey",
+      "garlic",
+      "butter",
+      "thyme"
+    ],
+    "steps": [
+      "Slice carrots and steam or parboil until just tender.",
+      "Melt butter in a pan, add minced garlic and cook briefly.",
+      "Add carrots and honey, toss to glaze and finish with thyme.",
+      "Serve warm."
+    ],
+    "nutritionalInfo": {
+      "calories": 180,
+      "protein": "2g",
+      "carbs": "28g",
+      "fat": "6g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "31",
+    "title": "Zucchini Fritters",
+    "ingredients": [
+      "zucchini",
+      "flour",
+      "egg",
+      "scallion",
+      "lemon zest"
+    ],
+    "steps": [
+      "Grate zucchini and squeeze out excess moisture.",
+      "Mix zucchini with flour, beaten egg, chopped scallion, and lemon zest.",
+      "Pan-fry spoonfuls until golden on both sides.",
+      "Serve warm with a yogurt dip."
+    ],
+    "nutritionalInfo": {
+      "calories": 240,
+      "protein": "8g",
+      "carbs": "22g",
+      "fat": "12g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "32",
+    "title": "Mediterranean Chickpea Bowl",
+    "ingredients": [
+      "cooked chickpeas",
+      "cucumber",
+      "cherry tomatoes",
+      "red onion",
+      "feta cheese",
+      "oregano"
+    ],
+    "steps": [
+      "Combine chickpeas, diced cucumber, halved cherry tomatoes, and thinly sliced red onion in a bowl.",
+      "Crumble feta over the top and sprinkle with oregano.",
+      "Toss gently and serve chilled or at room temperature."
+    ],
+    "nutritionalInfo": {
+      "calories": 360,
+      "protein": "14g",
+      "carbs": "40g",
+      "fat": "14g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "33",
+    "title": "Spiced Apple Compote",
+    "ingredients": [
+      "apples",
+      "brown sugar",
+      "cinnamon",
+      "lemon juice",
+      "vanilla extract"
+    ],
+    "steps": [
+      "Peel, core, and chop apples.",
+      "Simmer apples with brown sugar, cinnamon, lemon juice, and a splash of vanilla until soft and syrupy.",
+      "Cool slightly and serve over yogurt or pancakes."
+    ],
+    "nutritionalInfo": {
+      "calories": 150,
+      "protein": "0.5g",
+      "carbs": "38g",
+      "fat": "0.5g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "4 servings"
+  },
+  {
+    "id": "34",
+    "title": "Herb-Roasted Cauliflower Steaks",
+    "ingredients": [
+      "cauliflower",
+      "garlic powder",
+      "paprika",
+      "parsley",
+      "lemon wedges"
+    ],
+    "steps": [
+      "Slice cauliflower into thick steaks.",
+      "Brush with a light herb rub of garlic powder and paprika.",
+      "Roast until edges caramelize and center is tender.",
+      "Garnish with chopped parsley and serve with lemon wedges."
+    ],
+    "nutritionalInfo": {
+      "calories": 140,
+      "protein": "5g",
+      "carbs": "12g",
+      "fat": "8g"
+    },
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "30 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "35",
+    "title": "Smoked Paprika Lentils",
+    "ingredients": [
+      "brown lentils",
+      "carrot",
+      "celery",
+      "onion",
+      "smoked paprika",
+      "tomato paste"
+    ],
+    "steps": [
+      "Sauté diced carrot, celery, and onion until softened.",
+      "Add lentils, smoked paprika, and tomato paste, then cover with water or broth and simmer until lentils are tender.",
+      "Adjust consistency and serve over grains."
+    ],
+    "nutritionalInfo": {
+      "calories": 320,
+      "protein": "18g",
+      "carbs": "45g",
+      "fat": "4g"
+    },
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "35 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "36",
+    "title": "Mango Coconut Chia Pudding",
+    "ingredients": [
+      "chia seeds",
+      "coconut milk",
+      "mango puree",
+      "maple syrup"
+    ],
+    "steps": [
+      "Mix chia seeds with coconut milk and maple syrup; refrigerate until thickened.",
+      "Top with fresh mango puree or diced mango before serving."
+    ],
+    "nutritionalInfo": {
+      "calories": 280,
+      "protein": "6g",
+      "carbs": "28g",
+      "fat": "16g"
+    },
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "6 hrs (chill)",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "37",
+    "title": "Soba Noodle Salad with Edamame",
+    "ingredients": [
+      "soba noodles",
+      "edamame",
+      "shredded carrot",
+      "scallion",
+      "toasted sesame seeds"
+    ],
+    "steps": [
+      "Cook and rinse soba noodles under cold water.",
+      "Toss noodles with blanched edamame, shredded carrot, and sliced scallion.",
+      "Sprinkle with toasted sesame seeds and serve chilled."
+    ],
+    "nutritionalInfo": {
+      "calories": 420,
+      "protein": "18g",
+      "carbs": "62g",
+      "fat": "8g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "15 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "38",
+    "title": "Cranberry Walnut Quinoa",
+    "ingredients": [
+      "quinoa",
+      "dried cranberries",
+      "walnuts",
+      "orange zest",
+      "spinach"
+    ],
+    "steps": [
+      "Cook quinoa and fluff with a fork.",
+      "Stir in dried cranberries, chopped walnuts, orange zest, and baby spinach while warm.",
+      "Serve as a warm side or light main."
+    ],
+    "nutritionalInfo": {
+      "calories": 370,
+      "protein": "10g",
+      "carbs": "48g",
+      "fat": "14g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "20 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "39",
+    "title": "Lemongrass Coconut Chicken Soup",
+    "ingredients": [
+      "chicken thighs",
+      "lemongrass",
+      "galangal or ginger",
+      "lime leaves",
+      "coconut milk",
+      "mushrooms"
+    ],
+    "steps": [
+      "Simmer chicken with bruised lemongrass, galangal, and lime leaves until cooked.",
+      "Add sliced mushrooms and coconut milk; warm through.",
+      "Finish with a squeeze of lime and serve hot."
+    ],
+    "nutritionalInfo": {
+      "calories": 440,
+      "protein": "32g",
+      "carbs": "6g",
+      "fat": "30g"
+    },
+    "dietaryTags": [
+      "Gluten-Free",
+      "High Protein"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "40 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "40",
+    "title": "Corn and Basil Polenta",
+    "ingredients": [
+      "polenta",
+      "sweet corn kernels",
+      "vegetable broth",
+      "parmesan cheese",
+      "fresh basil"
+    ],
+    "steps": [
+      "Cook polenta with warm vegetable broth until creamy.",
+      "Stir in sweet corn kernels and grated parmesan.",
+      "Top with torn fresh basil and serve immediately."
+    ],
+    "nutritionalInfo": {
+      "calories": 330,
+      "protein": "8g",
+      "carbs": "48g",
+      "fat": "10g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "25 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "41",
+    "title": "Blueberry Almond Overnight Oats",
+    "ingredients": [
+      "rolled oats",
+      "almond milk",
+      "blueberries",
+      "almond butter",
+      "chia seeds"
+    ],
+    "steps": [
+      "Combine oats, almond milk, chia seeds, and almond butter in a jar.",
+      "Top with blueberries and refrigerate overnight.",
+      "Stir and enjoy cold or warmed."
+    ],
+    "nutritionalInfo": {
+      "calories": 360,
+      "protein": "12g",
+      "carbs": "48g",
+      "fat": "12g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Very Easy",
+    "cookingTime": "8 hrs (chill)",
+    "servingSize": "1 serving"
+  },
+  {
+    "id": "42",
+    "title": "Herbed Pork Tenderloin",
+    "ingredients": [
+      "pork tenderloin",
+      "rosemary",
+      "thyme",
+      "garlic cloves",
+      "mustard"
+    ],
+    "steps": [
+      "Rub tenderloin with crushed garlic and a smear of mustard, then press with chopped rosemary and thyme.",
+      "Roast until internal temperature reaches desired doneness.",
+      "Let rest before slicing and serving."
+    ],
+    "nutritionalInfo": {
+      "calories": 390,
+      "protein": "36g",
+      "carbs": "2g",
+      "fat": "24g"
+    },
+    "dietaryTags": [
+      "High Protein"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "30 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "43",
+    "title": "Roasted Beet and Goat Cheese Salad",
+    "ingredients": [
+      "beets",
+      "goat cheese",
+      "arugula",
+      "walnuts",
+      "balsamic glaze"
+    ],
+    "steps": [
+      "Roast beets until tender, then peel and slice.",
+      "Arrange arugula with beet slices, crumbled goat cheese, and chopped walnuts.",
+      "Drizzle with balsamic glaze and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 280,
+      "protein": "8g",
+      "carbs": "24g",
+      "fat": "16g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "45 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "44",
+    "title": "Pesto Chickpea Flatbread",
+    "ingredients": [
+      "flatbread",
+      "cooked chickpeas",
+      "basil pesto",
+      "artichoke hearts",
+      "mozzarella"
+    ],
+    "steps": [
+      "Spread basil pesto on flatbread base.",
+      "Top with chickpeas, chopped artichoke hearts, and shredded mozzarella.",
+      "Bake until cheese melts and crust is crisp."
+    ],
+    "nutritionalInfo": {
+      "calories": 480,
+      "protein": "20g",
+      "carbs": "52g",
+      "fat": "18g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "15 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "45",
+    "title": "Sweet Potato and Black Bean Hash",
+    "ingredients": [
+      "sweet potato",
+      "black beans",
+      "red bell pepper",
+      "corn kernels",
+      "cumin"
+    ],
+    "steps": [
+      "Dice and cook sweet potato until tender.",
+      "Add black beans, diced red bell pepper, and corn; warm through.",
+      "Sprinkle with cumin and serve with a dollop of plain yogurt if desired."
+    ],
+    "nutritionalInfo": {
+      "calories": 390,
+      "protein": "12g",
+      "carbs": "58g",
+      "fat": "6g"
+    },
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "30 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "46",
+    "title": "Peach and Burrata Crostini",
+    "ingredients": [
+      "baguette slices",
+      "ripe peach",
+      "burrata cheese",
+      "mint",
+      "honey"
+    ],
+    "steps": [
+      "Toast baguette slices until crisp.",
+      "Top with sliced peach and a spoonful of burrata.",
+      "Garnish with torn mint leaves and a light drizzle of honey."
+    ],
+    "nutritionalInfo": {
+      "calories": 260,
+      "protein": "8g",
+      "carbs": "28g",
+      "fat": "12g"
+    },
+    "dietaryTags": [
+      "Vegetarian"
+    ],
+    "difficulty": "Very Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "47",
+    "title": "Coconut Turmeric Cauliflower Rice",
+    "ingredients": [
+      "cauliflower rice",
+      "turmeric",
+      "coconut flakes",
+      "green peas",
+      "lime zest"
+    ],
+    "steps": [
+      "Warm cauliflower rice with turmeric until tender.",
+      "Stir in green peas and toasted coconut flakes.",
+      "Finish with lime zest and serve hot."
+    ],
+    "nutritionalInfo": {
+      "calories": 160,
+      "protein": "5g",
+      "carbs": "18g",
+      "fat": "8g"
+    },
+    "dietaryTags": [
+      "Vegan",
+      "Gluten-Free",
+      "Keto"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "12 mins",
+    "servingSize": "2 servings"
+  },
+  {
+    "id": "48",
+    "title": "Maple Dijon Roasted Carrots",
+    "ingredients": [
+      "carrots",
+      "maple syrup",
+      "dijon mustard",
+      "thyme",
+      "lemon juice"
+    ],
+    "steps": [
+      "Toss halved carrots with maple syrup, dijon mustard, and thyme.",
+      "Roast until caramelized and tender.",
+      "Finish with a spritz of lemon juice and serve warm."
+    ],
+    "nutritionalInfo": {
+      "calories": 210,
+      "protein": "2g",
+      "carbs": "34g",
+      "fat": "6g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Easy",
+    "cookingTime": "35 mins",
+    "servingSize": "3 servings"
+  },
+  {
+    "id": "49",
+    "title": "Blue Cheese Pear Endive Boats",
+    "ingredients": [
+      "endive leaves",
+      "ripe pear",
+      "blue cheese",
+      "toasted pecans",
+      "honey"
+    ],
+    "steps": [
+      "Slice pear thinly and crumble blue cheese.",
+      "Arrange pear and cheese in endive leaves and top with toasted pecans.",
+      "Drizzle lightly with honey and serve as an appetizer."
+    ],
+    "nutritionalInfo": {
+      "calories": 120,
+      "protein": "3g",
+      "carbs": "12g",
+      "fat": "7g"
+    },
+    "dietaryTags": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "difficulty": "Very Easy",
+    "cookingTime": "10 mins",
+    "servingSize": "4 servings"
+  },
+  {
+    "id": "50",
+    "title": "Miso-Glazed Eggplant",
+    "ingredients": [
+      "eggplant",
+      "white miso",
+      "mirin",
+      "rice vinegar",
+      "scallion"
+    ],
+    "steps": [
+      "Slice eggplant and score flesh.",
+      "Brush with a glaze made from white miso, mirin, and rice vinegar.",
+      "Broil or roast until tender and caramelized; top with sliced scallion and serve."
+    ],
+    "nutritionalInfo": {
+      "calories": 200,
+      "protein": "4g",
+      "carbs": "18g",
+      "fat": "12g"
+    },
+    "dietaryTags": [
+      "Vegan"
+    ],
+    "difficulty": "Medium",
+    "cookingTime": "25 mins",
+    "servingSize": "2 servings"
+  }
+]
