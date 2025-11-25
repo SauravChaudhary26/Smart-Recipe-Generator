@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Smart Recipe Generator",
+  title: "Smart Recipe Generator (Saurav Kumar Chaudhary)",
   description: "Generate recipes from ingredients using AI",
 };
 
