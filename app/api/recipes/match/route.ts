@@ -45,9 +45,6 @@ export async function POST(req: Request) {
       const matchCount = matches.length;
       const totalCount = recipeIngredients.length;
       const matchPercentage = matchCount / totalCount;
-
-      // If we have at least 30% of ingredients or 3 ingredients, it's a "match" candidate
-      // Or if the user has very few ingredients, we show what they can make.
       
       return {
         ...recipe,

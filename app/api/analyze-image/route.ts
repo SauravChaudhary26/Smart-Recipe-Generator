@@ -14,7 +14,7 @@ export async function POST(req: Request) {
 
     if (!process.env.GEMINI_API_KEY) {
       console.warn("GEMINI_API_KEY is not set. Using mock data.");
-      // Mock response for development without key
+      // Mock response for development
       return NextResponse.json({
         ingredients: ["tomato", "pasta", "garlic"],
         substitutions: {
