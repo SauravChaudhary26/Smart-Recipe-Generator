@@ -1,41 +1,41 @@
-# Smart Recipe Generator 🍳
+# Smart Recipe Generator
 
-A modern, intelligent recipe application that helps you decide what to cook based on the ingredients you have. Powered by Next.js and Google's Gemini AI.
+## Live Demo:- https://smart-recipe-generator-delta-one.vercel.app/
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Smart+Recipe+Generator)
+A modern, intelligent recipe application that helps you decide what to cook based on the ingredients you have. Powered by Next.js and Google's Gemini API.
 
-## 🌟 Features
+## Features
 
-### 🍎 Smart Ingredient Input
+### Smart Ingredient Input
 
 - **Manual Entry**: Easily add ingredients to your pantry list.
 - **AI Image Analysis**: Upload a photo of your fridge or pantry, and let Google Gemini AI automatically identify ingredients for you.
 
-### 🔍 Intelligent Recipe Matching
+### Intelligent Recipe Matching
 
 - **Fuzzy Matching**: Our robust algorithm matches your ingredients against our recipe database, handling singular/plural forms and partial matches.
 - **Match Percentage**: See exactly how well a recipe matches your available ingredients.
 - **Missing Ingredients**: Quickly identify what you need to buy to complete a recipe.
 
-### 🎯 Advanced Filtering
+### Advanced Filtering
 
 - **Dietary Preferences**: Filter by Vegetarian, Vegan, Gluten-Free, and more.
 - **Difficulty Levels**: Choose from Easy, Medium, or Hard recipes.
 - **Cooking Time**: Set a maximum cooking time to fit your schedule.
 - **Serving Size**: Find recipes that feed the right number of people.
 
-### 💡 Personalized Recommendations
+### Personalized Recommendations
 
 - **"Recommended for You"**: Get tailored recipe suggestions based on your favorites and past ratings.
 - **User Preferences**: The app learns from your interactions (favorites and ratings) to improve suggestions over time.
 
-### 🎨 Modern UI/UX
+### UI/UX
 
 - **Dark Mode**: Seamlessly switch between light and dark themes.
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile.
 - **Beautiful Animations**: Smooth transitions and interactions powered by Framer Motion.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
@@ -45,7 +45,7 @@ A modern, intelligent recipe application that helps you decide what to cook base
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Theme Management**: [next-themes](https://github.com/pacocoursey/next-themes)
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get the project running on your local machine.
 
@@ -59,8 +59,8 @@ Follow these steps to get the project running on your local machine.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/recepie.git
-    cd recepie
+    git clone https://github.com/SauravChaudhary26/Smart-Recipe-Generator
+    cd Smart-Recipe-Generator
     ```
 
 2.  **Install dependencies:**
@@ -89,7 +89,7 @@ Follow these steps to get the project running on your local machine.
 5.  **Open the app:**
     Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 recepie/
@@ -103,10 +103,9 @@ recepie/
 ├── data/
 │   └── recipes.json      # Recipe database
 ├── public/               # Static assets
-└── ...config files
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
